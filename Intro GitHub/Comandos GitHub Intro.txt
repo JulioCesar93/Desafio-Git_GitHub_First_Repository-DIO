@@ -1,0 +1,27 @@
+COMANDOS GIT
+
+git init
+git add .
+git commit -m "Mensagem identificadora"
+git push
+
+git branch -M main
+git remote add origin
+
+___________________________
+
+Subir repositório para versão WEB
+
+___________________________
+exit
+
+
+Sequência para 1ª subida
+
+git init
+git branch -M main
+git remote add origin https://   (Link do projeto)
+git add .
+git commit -m "Mensagem identificadora"
+git push -u origin main
+
